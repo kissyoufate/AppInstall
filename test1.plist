@@ -9,7 +9,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://localhost/YouXiPartner_0306.ipa</string>
+<string>http://192.168.2.8/YouXiPartner_0306.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -41,7 +41,7 @@
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>oa_app</string>
+<string>72g赚吧</string>
 </dict>
 </dict>
 </array>
