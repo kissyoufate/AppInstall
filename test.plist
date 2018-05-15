@@ -35,7 +35,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>标识</string>
+<string>com.72g.www.YouXiPartner</string>
 <key>bundle-version</key>
 <string>1.0.0</string>
 <key>kind</key>
